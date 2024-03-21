@@ -89,7 +89,7 @@
   },
   "overrides": {
     "zigbee-herdsman-converters": {
-      "zigbee-herdsman": "$zigbee-herdsman"
+      "zigbee-herdsman": "$@suxsem/zigbee-herdsman"
     }
   },
   "jest": {
